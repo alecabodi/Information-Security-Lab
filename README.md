@@ -13,4 +13,4 @@ I reached the following percentages with these solutions (of which only 6 were a
 
 > Due to the considerable amount of time it took to get them to work, no cleanup or refinement has been done
 
-Credit for all exercises goes to the course Information Security Lab HS2022 (263-0009-00L) at ETHZ.
+*Credit for all exercises goes to the course Information Security Lab HS2022 (263-0009-00L) at ETHZ.*
