@@ -1,0 +1,22 @@
+{
+  "basics": "r",
+  "basics/IChallenger.java": "r",
+  "basics/IReduction.java": "r",
+  "basics/IAdversary.java": "r",
+  "cdh": "r",
+  "cdh/I_CDH_Adversary.java": "r",
+  "cdh/I_CDH_Challenger.java": "r",
+  "cdh/CDH_Challenge.java": "r",
+  "cdh_quadratic": "r",
+  "cdh_quadratic/A_CDH_Quad_Reduction.java": "r",
+  "cdh_quadratic/I_Quadratic_Adversary.java": "r",
+  "cdh_quadratic/I_CDH_Quad_Reduction.java": "r",
+  "genericGroups": "r",
+  "genericGroups/IGroupElement.java": "r",
+  "genericGroups/IBasicGroupElement.java": "r",
+  "utils": "r",
+  "utils/NumberUtils.java": "r",
+  "utils/StringUtils.java": "r",
+  "utils/Triple.java": "r",
+  "utils/Pair.java": "r"
+}

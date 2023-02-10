@@ -1,0 +1,21 @@
+Starting httpd...
+
+StringParser listening on http://127.0.0.1:5111
+BODY:SYN?
+POST request,
+Path: %s
+Headers:
+%s
+
+Body:
+%s
+ / Host: 127.0.0.1:5111
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 4
+
+ SYN?
+Response from Parser: ACK!
+127.0.0.1 - - [19/Dec/2022 12:24:55] "POST / HTTP/1.1" 200 -

@@ -1,0 +1,8 @@
+main: cdh/quadratic/CDH_Quad_StudentTestRunner
+
+script:
+  compile: /cx_description/compile.sh
+  run: /cx_description/run.sh
+  test: /cx_description/run.sh
+  submit: /cx_description/submit.sh
+  debug: /cx_description/debug.sh

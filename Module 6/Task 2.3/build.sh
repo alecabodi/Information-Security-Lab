@@ -1,0 +1,1 @@
+gcc -O0 -lm -fno-stack-protector -fno-tree-vectorize -static -g -o ~/t2_3/a.out ~/t2_3/password_checker_3.c

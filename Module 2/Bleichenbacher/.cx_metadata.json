@@ -1,0 +1,16 @@
+{
+  "basics": "r",
+  "basics/IReduction.java": "r",
+  "basics/IChallenger.java": "r",
+  "basics/IAdversary.java": "r",
+  "rsapkcs": "r",
+  "rsapkcs/RSAPKCS_OWCL_Adversary.java": "d",
+  "rsapkcs/RSAPKCS_PK.java": "r",
+  "rsapkcs/I_RSAPKCS_OWCL_Adversary.java": "r",
+  "rsapkcs/I_RSAPKCS_OWCL_Challenger.java": "r",
+  "utils": "r",
+  "utils/Triple.java": "r",
+  "utils/NumberUtils.java": "r",
+  "utils/StringUtils.java": "r",
+  "utils/Pair.java": "r"
+}

@@ -1,0 +1,5 @@
+cd /home/isl/pin-3.11-97998-g7ecce2dac-gcc-linux-master/source/tools/SGXTrace
+
+../../../pin -t ./obj-intel64/SGXTrace.so -o ~/t2_1/samples/1/traces/16.txt -trace 1 -- ~/t2_1/password_checker_1 aaaaaaaaaaaaaaaa
+
+../../../pin -t ./obj-intel64/SGXTrace.so -o ~/t2_1/samples/1/traces/8.txt -trace 1 -- ~/t2_1/password_checker_1 aaaaaaaa
