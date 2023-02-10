@@ -1,6 +1,6 @@
 # InfoSecLab ETHZ 
 
-This repository contains my solution to the modules proposed in Information Security Lab in Fall Semester 2022 at ETH Zurich. 
+This repository contains my solution to the modules proposed in Information Security Lab in Fall Semester 2022 at ETH Zürich. 
 I reached the following percentages with these solutions (of which only 6 were accounted for the final grade, the worst one is discarded):
 
 * Module 1 100.00 %
